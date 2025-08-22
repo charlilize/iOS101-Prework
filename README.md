@@ -34,7 +34,7 @@ The following **required** functionality is completed:
 * Can easily find the best deals for airplane flights
 * When booking a hotel, you can already see a picture in the listing
 
-** My App Idea **
+**My App Idea**
 I want to create an app that helps you figure out where to go when you're bored and can't decide what to do. Basically, it would show you what places are trending right now in your area - like if there's a cool new restaurant everyone's talking about or if there's some random event happening that you didn't know about. The main features would be a feed of popular spots near you (kind of like an Instagram explore page but for places), filters so you can look for specific things like food, activities, or hangout spots, and maybe a random generator for when you literally have no idea what you want to do. It would pull information from social media posts, Google reviews, and local events to figure out what's actually popular right now, not just what was cool six months ago. You could also save places you want to check out later and see what your friends have been up to. I think this would be really useful because I'm always stuck trying to figure out where to eat or what to do on weekends, and I feel like there's probably tons of cool stuff happening in my city that I just don't know about. The whole point is to help people discover new places and not get stuck going to the same three restaurants all the time.
 
 ## Notes
